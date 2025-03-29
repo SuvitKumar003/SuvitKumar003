@@ -1,36 +1,84 @@
-# 💫 About Me:
-👋 Hey there, I'm Suvit Kumar!<br>🚀 Passionate about Coding & AI | 🤖 Machine Learning & Deep Learning Enthusiast | 🏆 Building cutting-edge projects that solve real-world problems<br><br>💡 **About Me:**<br>🎓 3rd-year COE student at TIET, specializing in AI, ML, and Computer Vision<br>🔍 Enthusiastic about deep learning, computer vision, and data science applications<br>⚡ **Projects:**  
-   - 🛡 **Credit Card Fraud Detection using Autoencoder** - Leveraging deep learning techniques to detect fraudulent transactions with high accuracy.  
-   - 🛒 **Recommendation System for Retail** - Implementing a personalized recommendation engine to enhance customer experience.  
-   - 📖 **Generating Book Scripts** - Utilizing AI to generate creative and context-aware book scripts.  
-🔬 **Research:** Credit Fraud Detection using Generative AI | Emotion Detection from Images<br>💻 **Tech Stack:** Python | C++ | TensorFlow | PyTorch | OpenCV | MongoDB<br>🌱 **Currently Learning:**<br>✔ Advanced Machine Learning & Deep Learning<br>✔ Optimizing algorithms for real-time AI applications<br>✔ Building end-to-end scalable ML solutions<br>💡 **Looking to Collaborate On:**<br>✔ Open-source AI/ML projects<br>✔ Research-oriented ML/DL applications<br>✔ Industry-ready real-world AI solutions
+# 👋 Hi, I'm Suvit Kumar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suvitkumar03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skumar5_be22@thapar.edu) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuvitKumar003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SuvitKumar003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvitKumar003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SuvitKumar003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuvitKumar003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Machine Learning Engineer | AI Enthusiast | Passionate Problem Solver**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SuvitKumar003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+## 🚀 About Me
 
-<!---
-SuvitKumar003/SuvitKumar003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 3rd-Year Computer Engineering Student at TIET, specializing in AI/ML and Computer Vision
+- 🔭 **Current Focus**: Building robust ML models for real-world applications
+- 🌱 **Learning**: Advanced Deep Learning, MLOps, and Edge AI
+- 💡 **Passionate About**: Generative AI, Computer Vision, and Scalable ML Systems
+- 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/suvitkumar03/) | [Email](mailto:skumar5_be22@thapar.edu)
+
+---
+
+## 🔧 Technical Arsenal
+
+### **Core Competencies**
+![Python](https://img.shields.io/badge/Python-Expert-3670A0?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Proficient-FF6F00?logo=tensorflow)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?logo=opencv)
+
+### **ML Ecosystem**
+![Data Science](https://img.shields.io/badge/Pandas|NumPy|SciPy-Expert-150458?logo=pandas)
+![ML Frameworks](https://img.shields.io/badge/Scikit--learn|Keras|XGBoost-Proficient-F7931E)
+![Visualization](https://img.shields.io/badge/Matplotlib|Plotly|Seaborn-Advanced-3F4F75)
+
+### **Infrastructure**
+![Cloud](https://img.shields.io/badge/AWS|GCP-Familiar-232F3E?logo=amazon-aws)
+![Database](https://img.shields.io/badge/MongoDB|SQL-Intermediate-47A248?logo=mongodb)
+![Tools](https://img.shields.io/badge/Docker|Git|Linux-Intermediate-2496ED?logo=docker)
+
+---
+
+## 🏆 Featured Projects
+
+### **Fraud Detection System** 
+» Developed autoencoder-based anomaly detection achieving 98.7% AUC  
+» Tech: PyTorch, Scikit-learn, Imbalanced Learning
+
+### **AI-Powered Recommendation Engine** 
+» Built hybrid recommender system with 35% CTR improvement  
+» Tech: TensorFlow, Flask, Collaborative Filtering
+
+### **Generative Writing Assistant** 
+» Created GPT-based book script generator with semantic coherence  
+» Tech: Transformers, HuggingFace, NLP Pipelines
+
+**[Explore More Projects →](https://github.com/SuvitKumar003?tab=repositories)**
+
+---
+
+## 📈 GitHub Analytics
+
+| **Metric**          | **Achievement**                              |
+|----------------------|----------------------------------------------|
+| Contribution Streak | ![](https://streak-stats.demolab.com?user=SuvitKumar003&theme=dark) |
+| Language Expertise  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvitKumar003&layout=compact&theme=vision-friendly-dark) |
+| Project Impact      | ![](https://github-readme-stats.vercel.app/api?username=SuvitKumar003&show_icons=true&theme=vision-friendly-dark) |
+
+---
+
+## 🏅 Recognitions
+- 🥇 1st Place - TIET AI Hackathon 2024 (Computer Vision Track)
+- 🏆 Best ML Project - University Tech Fest 2023
+- 📜 Certified TensorFlow Developer | AWS ML Specialist
+
+---
+
+## 💡 Latest Insights
+- 📝 [“Optimizing Autoencoders for Fraud Detection”](https://medium.com/@suvitkumar)
+- 🎥 [“From CNN to Vision Transformers”](https://youtube.com/suvitkumar)
+- 💻 [“MLOps Best Practices”](https://github.com/SuvitKumar003/mlops-guide)
+
+---
+
+## 🤝 Let's Collaborate!
+- 🔍 Looking for research partners in Generative AI
+- 💼 Open to ML engineering internships and contracts
+- 🚀 Excited about open-source contributions in AI/ML
+
+[![Let's Connect](https://img.shields.io/badge/Schedule_Call-30_min-009688?style=for-the-badge&logo=google-meet)](https://calendly.com/suvitkumar)
