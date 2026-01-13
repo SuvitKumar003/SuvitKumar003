@@ -61,44 +61,39 @@
 
 ## 🌟 Featured Projects (Recruiter Favorites)
 
+### 🔥 🏆 TOPSIS Decision-Making Package (PyPI + GitHub) — 4000+ Users
+- Built a **production-ready Python package** for decision-making and model ranking  
+- Adopted by **4000+ users**, demonstrating **real-world impact at scale** and strong developer adoption  
+- Owned end-to-end delivery: **API design, implementation, testing, packaging, documentation, and versioning**
+🔗 **GitHub:** https://github.com/SuvitKumar003/ranklib
+
+---
+
 ### 🔹 📌 AI-Powered Log Analysis System
-📍 Repository: **AI-powered scalable log analyzer with anomaly detection**
-- Async + queue-based design for stability
-- Reduced incident detection time by **85%**
-- Built with production-like architecture  
+- Built a scalable system to process high-volume logs for anomaly detection  
+- Used async + queue-based architecture for stability and performance  
+- Reduced incident detection time by **85%**  
 🔗 **GitHub:** https://github.com/SuvitKumar003/Team--Ananta-
 
 ---
 
 ### 🔹 📌 Smart Screenshot Organizer (SSO)
-📍 Repository: **OCR + NLP + Embeddings based screenshot clustering**
-- Organized **500+ screenshots** with **~85% accuracy**
-- Helps users search screenshots using smart tags + clustering  
+- OCR + NLP + Embeddings based screenshot tagging and clustering  
+- Organized **500+ screenshots** with **~85% accuracy**  
 🔗 **GitHub:** https://github.com/SuvitKumar003/Smart_Screen_Shot_Organizer
 
 ---
 
-### 🔹 📌 One Pixel Attack — Research Work
-📍 Repository: **Adversarial attack research + experiments**
-- Focused on robustness & perturbed image analysis  
+### 🔹 📌 One Pixel Attack — Research Work (Paper Under Review 🍒)
+- Adversarial robustness research focused on perturbed image detection & evaluation  
 🔗 **GitHub:** https://github.com/SuvitKumar003/One_Pixel_Attack_Research_Paper
 
 ---
 
-### 🔹 📌 TOPSIS Package (PyPI + GitHub)
-📍 Repository: **Decision-making ranking framework**
-- Designed & developed a reusable package
-- Great for model comparison + ranking tasks  
-🔗 **GitHub:** https://github.com/SuvitKumar003/ranklib
-
----
-
-### 🔹 🦀 Rust Project (Bonus — Shows Strong Systems Skills)
-📍 Repository: **Log Aggregator in Rust**
-- Demonstrates fundamentals of systems programming and performance-first design  
+### 🔹 🦀 Rust Project (Bonus: Shows Systems Skills)
+- Log aggregator project demonstrating Rust fundamentals and performance-first design  
 🔗 **GitHub:** https://github.com/SuvitKumar003/Log_aggregator_Rust
 
----
 
 ## 🧩 Problem Solving & DSA
 ✅ Solved **340+ LeetCode problems**  
