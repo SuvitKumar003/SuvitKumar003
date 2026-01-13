@@ -40,6 +40,15 @@
 - Strong exposure to experimentation cycles, debugging, and evaluation pipelines
 
 ---
+## 🧪 Research & Publication (Cherry on Top 🍒)
+- Conducted a **Software Engineering + Systems & Analytics research project** under faculty supervision  
+- Contributed to experimentation, evaluation improvements, and result validation  
+- 📄 Research paper currently **under peer review** in a peer-reviewed journal  
+- Repository (Adversarial Robustness Work):  
+  🔗 https://github.com/SuvitKumar003/One_Pixel_Attack_Research_Paper  
+
+---
+
 
 ## 🧠 Technical Skills
 ✅ **Programming:** Python • C++ • JavaScript • SQL • Rust  
